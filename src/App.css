@@ -78,3 +78,22 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
+.cards_container .img{
+  width: 30%;
+  height: 30%;
+  padding-bottom: 30px;
+}
+
+.fotos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap-reverse;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.fotos .img{
+  width: 34%;
+}
