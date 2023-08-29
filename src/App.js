@@ -5,6 +5,7 @@ import LongTextSnackbar from './Components/LongTextSnackbar'
 import Cards from './Components/Cards'
 import Footer from './Components/Footer';
 import Elevation from './Components/Elevation';
+import Fotos from './Components/Fotos'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <First></First>
       <LongTextSnackbar></LongTextSnackbar>
       <Cards></Cards>
+      <Fotos></Fotos>
       <Elevation></Elevation>
       <Footer></Footer>
     </div>
